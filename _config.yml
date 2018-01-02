@@ -87,7 +87,7 @@ service-worker: true
 
 
 # 数据库链接
-Database: [
+friends: [
     {
         title: "SD",
         href: "http://www.sciencedirect.com/"
