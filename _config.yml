@@ -51,7 +51,7 @@ kramdown:
 
 # 评论系统
 # Disqus settings（https://disqus.com/）
-disqus_username: qiubaiying
+disqus_username: njfulib
 
 # 多说 将于2017年6月1日正式关停服务，建议使用 Disqus（http://dev.duoshuo.com/threads/58d1169ae293b89a20c57241）
 # Duoshuo settings
@@ -89,16 +89,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "SD",
+        href: "http://www.sciencedirect.com/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "SpringerLink",
+        href: "https://link.springer.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "CNKI",
+        href: "https://cnki.net"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "CSSCI",
+        href: "https://http://cssci.nju.edu.cn/"
     }
 ]
