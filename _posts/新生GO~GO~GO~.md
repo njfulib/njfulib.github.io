@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      新生GO~GO~GO~
-subtitle:   「健身先健脑」科学的运动需要科学的运动理论
+subtitle:   大学初体验
 date:       2018-01-02
 author:     Iris
 header-img: img/post-bg-mma-3.jpg
@@ -17,7 +17,3 @@ tags:
 
 ## 索引
 1.
-2.
-3.
-4.
-5.
