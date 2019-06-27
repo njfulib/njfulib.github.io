@@ -1,10 +1,10 @@
 # Site settings
-title: Iris's Blog
+title: 研究支持博客
 SEOTitle: Iris'blog | njfulib's Blog
 header-img: img/post-bg-desk.jpg
 email: 714122051@qq.com
-description: "极简主义"
-keyword: Iris Chen, Iris's Blog, Library, information"
+description: "学术工具进阶"
+keyword: Iris Chen, Library, information, 检索，研究支持"
 url: "http://njfulib.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/njfulib/njfulib.github.io.git" # you code repository
